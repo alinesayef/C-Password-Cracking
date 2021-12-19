@@ -1,1 +1,1 @@
-# MultiThreaded-Password-Cracking
+# C Password Cracking using Pthreads
