@@ -1,4 +1,3 @@
-//Please compile using gcc pwdcrk.c -pthread -lcrypt
 //Password is QV12
 #include <stdio.h>
 #include <string.h>
