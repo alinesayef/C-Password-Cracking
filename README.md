@@ -1,5 +1,5 @@
 # C and CUDA Password Cracking using Pthreads
-This C program can crack an encrypted 2 letter, 2 number password.
+Both the C and CUDA program can crack an encrypted 2 letter, 2 number password. EncryptSHA512.c generates an encrypted password.
 
 # Compile commands
 
