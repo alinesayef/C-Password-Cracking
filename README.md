@@ -14,4 +14,4 @@ nvcc Password_Cracking.cu
 
 # Disclaimer
 
-There is no guarantee that this application will work perfectly. It has been published in the spirit of benefiting the GitHub community.
+There is no guarantee that this code will work perfectly. It has been published in the spirit of benefiting the GitHub community.
