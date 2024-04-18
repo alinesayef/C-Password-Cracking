@@ -14,4 +14,4 @@ nvcc Password_Cracking.cu
 
 # License
 
-This software is subject to a license, please refer to the License file for more information.
+This software is subject to a license, please refer to the license file for more information.
