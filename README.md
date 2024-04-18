@@ -12,6 +12,6 @@ CUDA password cracking
 
 nvcc Password_Cracking.cu
 
-# Disclaimer
+# License
 
-There is no guarantee that this code will work perfectly. It has been published in the spirit of benefiting the GitHub community.
+This software is subject to a license, please refer to the License file for more information.
